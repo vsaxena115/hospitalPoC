@@ -1,0 +1,10 @@
+/Users/VizMac/Projects/testsms/testsms/obj/Debug/netcoreapp2.0/testsms.csproj.CoreCompileInputs.cache
+/Users/VizMac/Projects/testsms/testsms/obj/Debug/netcoreapp2.0/testsms.AssemblyInfoInputs.cache
+/Users/VizMac/Projects/testsms/testsms/obj/Debug/netcoreapp2.0/testsms.AssemblyInfo.cs
+/Users/VizMac/Projects/testsms/testsms/bin/Debug/netcoreapp2.0/testsms.deps.json
+/Users/VizMac/Projects/testsms/testsms/bin/Debug/netcoreapp2.0/testsms.runtimeconfig.json
+/Users/VizMac/Projects/testsms/testsms/bin/Debug/netcoreapp2.0/testsms.runtimeconfig.dev.json
+/Users/VizMac/Projects/testsms/testsms/bin/Debug/netcoreapp2.0/testsms.dll
+/Users/VizMac/Projects/testsms/testsms/bin/Debug/netcoreapp2.0/testsms.pdb
+/Users/VizMac/Projects/testsms/testsms/obj/Debug/netcoreapp2.0/testsms.dll
+/Users/VizMac/Projects/testsms/testsms/obj/Debug/netcoreapp2.0/testsms.pdb
